@@ -85,6 +85,7 @@ Isso abrirá o dashboard automaticamente em seu navegador padrão. Se não abrir
   * **Pandas:** Usado para manipulação e análise de dados.
   * **Plotly Express:** Biblioteca para a criação de gráficos interativos e dinâmicos.
   * **Matplotlib e Seaborn:** Utilizados para a visualização da matriz de correlação (heatmap).
+  * **Google Colab:** Ambiente de desenvolvimento onde o projeto foi inicialmente prototipado. [Link para o Notebook](https://colab.research.google.com/drive/1DhKnt18lncYZsO-XfLTC_qchtvQ680_F?usp=sharing)
 
 ## 🔗 Fonte dos Dados
 Os dados utilizados neste projeto são extraídos do seguinte repositório: https://raw.githubusercontent.com/MaduAraujo/Analise-de-Dados-do-Spotify/main/dataset.csv
